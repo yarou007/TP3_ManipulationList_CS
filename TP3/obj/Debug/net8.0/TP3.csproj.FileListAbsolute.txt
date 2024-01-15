@@ -1,0 +1,14 @@
+C:\Users\21655\source\repos\TP3\TP3\bin\Debug\net8.0\TP3.exe
+C:\Users\21655\source\repos\TP3\TP3\bin\Debug\net8.0\TP3.deps.json
+C:\Users\21655\source\repos\TP3\TP3\bin\Debug\net8.0\TP3.runtimeconfig.json
+C:\Users\21655\source\repos\TP3\TP3\bin\Debug\net8.0\TP3.dll
+C:\Users\21655\source\repos\TP3\TP3\bin\Debug\net8.0\TP3.pdb
+C:\Users\21655\source\repos\TP3\TP3\obj\Debug\net8.0\TP3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\21655\source\repos\TP3\TP3\obj\Debug\net8.0\TP3.AssemblyInfoInputs.cache
+C:\Users\21655\source\repos\TP3\TP3\obj\Debug\net8.0\TP3.AssemblyInfo.cs
+C:\Users\21655\source\repos\TP3\TP3\obj\Debug\net8.0\TP3.csproj.CoreCompileInputs.cache
+C:\Users\21655\source\repos\TP3\TP3\obj\Debug\net8.0\TP3.dll
+C:\Users\21655\source\repos\TP3\TP3\obj\Debug\net8.0\refint\TP3.dll
+C:\Users\21655\source\repos\TP3\TP3\obj\Debug\net8.0\TP3.pdb
+C:\Users\21655\source\repos\TP3\TP3\obj\Debug\net8.0\TP3.genruntimeconfig.cache
+C:\Users\21655\source\repos\TP3\TP3\obj\Debug\net8.0\ref\TP3.dll
